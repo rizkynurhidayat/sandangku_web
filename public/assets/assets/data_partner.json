@@ -1,0 +1,41 @@
+[
+        {
+            "id":1,
+            "nama":"The Brothers",
+            "kategori":"EO",
+            "About":"",
+            "alamat":"Saphire Regency Blok D 105 Jl. KS. Tubun, Kober, Purwokerto",
+            "socialMedia":"https://www.instagram.com/brothers_indonesia/" ,
+            "contactPerson":[
+                "081327006151 (Adit)",
+                "082137737437 (Yudit)"
+            ] ,
+            "bidangUsaha":[
+                "Jasa Event Organizer",
+                "Jasa Periklanan, Promosi dan Pemasaran, Reklame, dan Hubungan Masyarakat"
+            ],
+            "listFoto":["assets/partner/image 3.png",
+            "assets/partner/image 4.png",
+            "assets/partner/image 5.png",
+            "assets/partner/image 6.png",
+            "assets/partner/image 7.png",
+            "assets/partner/image 8.png",
+            "assets/partner/image 9.png",
+            "assets/partner/image 10.png",
+            "assets/partner/image 11.png",
+            "assets/partner/image 12.png"] 
+        },
+        {
+            "id":2,
+            "nama":"Brizola",
+            "alamat":"Jl. Tirtayasa No.26, RT.5/RW.2, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160, Indonesia",
+            "contactPerson":"",
+            "socialMedia":"",
+            "bidangUsaha":[
+    
+            ],
+            "listFoto":[
+    
+            ]
+        }
+    ]

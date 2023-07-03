@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577617739433",
+    "project_id": "bangboss-5b86a",
+    "storage_bucket": "bangboss-5b86a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577617739433:android:045901755a3221c4a733b8",
+        "android_client_info": {
+          "package_name": "com.example.sandangku_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577617739433-6ddn40om9o9cqeq9794ivki9lh0ntm8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXjSqZoMJlgRv-0y4KUiDDyx52-c4QLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577617739433-6ddn40om9o9cqeq9794ivki9lh0ntm8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
